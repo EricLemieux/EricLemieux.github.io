@@ -1,0 +1,19 @@
+/*Style sheet*/
+@charset "utf-8";
+
+img	{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.bg {
+	/*background-color:#ffffff;*/
+}
+
+.heading {
+	padding-top: 50px;
+}
+
+.center {
+	text-align:center;
+}
