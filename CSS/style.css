@@ -1,19 +1,35 @@
 /*Style sheet*/
 @charset "utf-8";
 
-img	{
+img
+{
 	padding-top:20px;
 	padding-bottom:20px;
 }
 
-.bg {
+.bg
+{
 	/*background-color:#ffffff;*/
 }
 
-.heading {
+.heading
+{
 	padding-top: 50px;
 }
 
-.center {
+.center
+{
 	text-align:center;
+}
+
+.description
+{
+	text-align:left;
+	padding-right:30px;
+	padding-left:	30px;
+}
+
+#Contact
+{
+	padding-bottom:50px;
 }
